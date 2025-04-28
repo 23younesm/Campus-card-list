@@ -1,5 +1,5 @@
 /**
- * Copyright 2025 daa5767
+ * Copyright 2025
  * @license Apache-2.0, see LICENSE for full text.
  */
 import { LitElement, html, css } from "lit";
